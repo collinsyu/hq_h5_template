@@ -1,0 +1,20 @@
+{
+  "name": "hq_h5_template",
+  "version": "1.0.0",
+  "description": "移动端h5模板",
+  "author": "yuhaiqing",
+  "license": "ISC",
+  "private": false,
+  "scripts": {
+    "start": "umi dev",
+    "build": "umi build"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.4",
+    "clipboard-copy": "^3.0.0",
+    "react-lazyload": "^2.3.0",
+    "umi": "^2.5.5",
+    "umi-plugin-react": "^1.5.2"
+  },
+  "devDependencies": {}
+}
